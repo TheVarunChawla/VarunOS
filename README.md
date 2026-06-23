@@ -1,1 +1,3 @@
 # VarunOS
+
+Professional starter structure.
